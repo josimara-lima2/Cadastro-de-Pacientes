@@ -1,0 +1,2 @@
+# Cadastro-de-Pacientes
+O projeto é desenvolvido em C e tem o objetivo de cadastrar pacientes que passam por um nutricionista. Para isso foi projetado o conceito de arquivos, onde o arquivo de entrada armazena como informações do paciente e o arquivo de saída armazena a situação daquele paciente baseado no cálculo de seu IMC.  Este projeto foi desenvolvido para a disciplina de Estrutura de dados II do curso de Tecnologia da informação.
