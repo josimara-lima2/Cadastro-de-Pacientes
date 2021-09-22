@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1552601736 source:e:\agora vai- projeto\projetoedii\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Menu_interativo.h"
+	"projeto.h"
+	<math.h>
+	<time.h>
+	<string.h>
+	<assert.h>
+
+1552932513 
+
+1552601569 source:e:\agora vai- projeto\projetoedii\projeto.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"projeto.h"
+
+1552937700 "
+
+1552598481 e:\agora vai- projeto\projetoedii\projeto.h
+
+1552599904 source:e:\agora vai- projeto\projetoedii\menu_interativo.c
+	<stdarg.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1552200177 e:\agora vai- projeto\projetoedii\menu_interativo.h
+
+1552599904 source:d:\agora vai- projeto\projetoedii\menu_interativo.c
+	<stdarg.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1552937700 source:d:\agora vai- projeto\projetoedii\projeto.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"projeto.h"
+
+1552937700 d:\agora vai- projeto\projetoedii\projeto.h
+
+1552932513 source:d:\agora vai- projeto\projetoedii\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Menu_interativo.h"
+	"projeto.h"
+	<math.h>
+	<time.h>
+	<string.h>
+	<assert.h>
+
+1552200177 d:\agora vai- projeto\projetoedii\menu_interativo.h
+
+1632310325 source:/Users/Josy/Desktop/projetoEDII/main.c
+	<stdio.h>
+	<stdlib.h>
+	"Menu_interativo.h"
+	"projeto.h"
+	<math.h>
+	<time.h>
+	<string.h>
+	<assert.h>
+
+1632310328 /Users/Josy/Desktop/projetoEDII/Menu_interativo.h
+
+1632310332 /Users/Josy/Desktop/projetoEDII/projeto.h
+
+1632310327 source:/Users/Josy/Desktop/projetoEDII/Menu_interativo.c
+	<stdarg.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1632310330 source:/Users/Josy/Desktop/projetoEDII/projeto.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"projeto.h"
+
